@@ -1,3 +1,4 @@
+[![Test Coverage](https://codeclimate.com/github/leopoldkwok/fizzbuzz/badges/coverage.svg)](https://codeclimate.com/github/leopoldkwok/fizzbuzz)
 Fizzbuzz
 ===========
 
